@@ -1,0 +1,20 @@
+Handwritten Digit Recognition Using MNIST
+The project focuses on recognizing handwritten digits (0–9) using the MNIST dataset. It lets users draw digits via an interactive window and attempts to classify them in real time. 
+GitHub
+YouTube
+
+Real-Time Drawing Interface
+A GUI (game-like window) is created where users can draw digits with a mouse or stylus, making the whole experience interactive and engaging—not just a static prediction model. 
+GitHub
+
+Tools & Frameworks Used
+
+Programming Language: Python
+
+Libraries:
+
+Pygame: for building the interactive drawing interface
+
+Matplotlib: for any visual representations (if included)
+
+Keras (likely backend TensorFlow), NumPy, and OpenCV: for building and running the Convolutional Neural Network (CNN) mode
